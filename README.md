@@ -13,6 +13,11 @@ Tasks- You are a data analyst who has been provided with sample data and a mock-
 1. Create the metrics according to the metric list.
 2. Create a dashboard according to the mock-up provided by stakeholders.
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
+
+   Mock up dashboard
+
+   ![image](https://github.com/niti007/Hospitality-Analysis/assets/90565444/e4b752d7-66d9-4ffc-97bd-d35f4d976897)
+
    
 
 
