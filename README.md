@@ -4,6 +4,6 @@ Link to Challenge- https://codebasics.io/challenge/codebasics-resume-project-cha
 
 Link to Interactive Dashboard- https://www.novypro.com/project/hospitality-analysis-13
 
- <span style="font-size:larger;">Problem Statement</span>
+Problem Statement
 
 
