@@ -32,20 +32,29 @@ Revenue Analysis View
 
 Important Insights from the Dashboard 
 
-1. Delhi has the highest average Ratings and banglore has the lowest.
-2. Presidential rooms has the highest ratings and premium has the lowest.
-3. Elite rooms has the highest revenues so we need to focus on those customers and standard room has the lowest.
-4. Atliq Exotica has the highest revenue and specifically in mumbai and atliq seasons has the lowest.
+1. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore.
+2. Presidential rooms has the highest ratings(3.69) and premium has the lowest(3.59)
+3. Elite rooms has the highest revenue as well as higher booking and cancellation rate so we need to focus on those customers.
+4. Atliq Exotica has the highest revenue 320M and rating of 3.62 and atliq seasons has the lowest.
 5. luxury recorded the highest revenue which is 1.05bn out of 1.71bn.
 6. May had the highest revenue 581.93m  while june had the lowest 553.93m.
 7. Delhi generated the lowest revenue in terms of cities.
 8. Delhi has the highest occupancy % while banglore has the lowest.
 9. presidential rooms has the highest occupancy % and elite has the lowest.
-10. Atliq palace delhi has the highest occupancy.
+10. AtliQ Bay has the highest occupancy of 66%
 11. Although the DSRN is more for standard room but the revenue is less that means we have more rooms but they are empty.
 12. June has the highest cancellation rate.
-13. 199 m revenue is lost due to cancellation.
-14. July we have lost revenue around 66m.
+13. 199M revenue is lost due to cancellation.
+
+Learnt things from the project
+    
+- Acquired comprehensive understanding of calculating RevPAR (Revenue Per Available Room) and its significance in assessing a hotel's revenue performance.
+- Gained insights into utilizing RevPAR to establish accurate room pricing strategies and to benchmark the performance of hotels against other properties or brands.
+- Explored the calculation of DBRN (Daily Booked Room Nights) as a key metric for understanding the average daily room bookings over a specified period.
+- Investigated the significance of DSRN (Daily Sellable Room Nights) in assessing the average number of rooms available for sale on a daily basis within a specific time frame.
+- Explored the calculation of DURN (Daily Utilized Room Nights) and its role in evaluating the average number of rooms effectively used by customers on a daily basis over a defined period.
+
+  
     
 
 
@@ -61,9 +70,7 @@ Important Insights from the Dashboard
 
 
 
-
    
-
 
 
 
