@@ -2,7 +2,7 @@ As a part of the code basics resume project challenge, I have worked on this hos
 
 Link to Challenge- https://codebasics.io/challenge/codebasics-resume-project-challenge/4
 
-Link to Interactive Dashboard- https://www.novypro.com/project/hospitality-analysis-13
+Link to Interactive Dashboard- https://www.novypro.com/project/hospitality-analysis-power-bi-2
 
 # Problem Statement
 
